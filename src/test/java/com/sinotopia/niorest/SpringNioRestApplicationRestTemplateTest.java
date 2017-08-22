@@ -1,4 +1,4 @@
- package com.codependent.niorest;
+ package com.sinotopia.niorest;
 
 import java.util.List;
 

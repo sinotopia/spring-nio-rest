@@ -1,4 +1,4 @@
-package com.codependent.niorest;
+package com.sinotopia.niorest;
 
 import java.util.List;
 
@@ -12,7 +12,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import com.codependent.niorest.dto.LoadTestInfo;
+import com.sinotopia.niorest.dto.LoadTestInfo;
 
 
 @SpringBootTest(classes = SpringNioRestApplication.class, webEnvironment=WebEnvironment.DEFINED_PORT, properties="server.port=9090")

@@ -1,4 +1,4 @@
-package com.codependent.niorest.filter;
+package com.sinotopia.niorest.filter;
 
 import java.io.IOException;
 
